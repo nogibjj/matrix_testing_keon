@@ -4,7 +4,7 @@
 
 # Previewing different Python Build Versions
 
-* [![CI](https://github.com/nogibjj/matrix_testing_keon/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/matrix_testing_keon/actions/workflows/cicd.yml) - Python 3.7 Build ubuntu
+* [![ubuntu Python 3.7](https://github.com/nogibjj/matrix_testing_keon/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/matrix_testing_keon/actions/workflows/cicd.yml) - Python 3.7 Build ubuntu
 
 * [![CI](https://github.com/nogibjj/matrix_testing_keon/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/matrix_testing_keon/actions/workflows/cicd.yml)  - Python 3.7 Build Windows
 
