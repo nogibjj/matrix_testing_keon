@@ -1,9 +1,25 @@
 [![Codespaces Prebuilds](https://github.com/nogibjj/GitHub-Template/actions/workflows/codespaces/create_codespaces_prebuilds/badge.svg)](https://github.com/nogibjj/GitHub-Template/actions/workflows/codespaces/create_codespaces_prebuilds)
-[![CI](https://github.com/nogibjj/GitHub-Template/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/GitHub-Template/actions/workflows/cicd.yml)
+
 [![Python application test with Github Actions using devcontainers](https://github.com/nogibjj/GitHub-Template/actions/workflows/devcontainer-ci.yml/badge.svg)](https://github.com/nogibjj/GitHub-Template/actions/workflows/devcontainer-ci.yml)
 
+# Previewing different Python Build Versions
+
+* [![CI](https://github.com/nogibjj/matrix_testing_keon/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/matrix_testing_keon/actions/workflows/cicd.yml) - Python 3.7 Build ubuntu
+
+* [![CI](https://github.com/nogibjj/matrix_testing_keon/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/matrix_testing_keon/actions/workflows/cicd.yml)  - Python 3.7 Build Windows
+
+* [![CI](https://github.com/nogibjj/matrix_testing_keon/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/matrix_testing_keon/actions/workflows/cicd.yml) - Python 3.8 Build Ubuntu
+
+* [![CI](https://github.com/nogibjj/matrix_testing_keon/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/matrix_testing_keon/actions/workflows/cicd.yml) - Python 3.8 Build Windows
+
+* [![CI](https://github.com/nogibjj/matrix_testing_keon/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/matrix_testing_keon/actions/workflows/cicd.yml) - Python 3.9 Build Ubuntu
+
+* [![CI](https://github.com/nogibjj/matrix_testing_keon/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/matrix_testing_keon/actions/workflows/cicd.yml) - Python 3.9 Build Windows
+
+
+
+
 # GitHub-Template
-A sample template for GitHub best practices
 
 ## Episode 3:  Try to push and cache image
 
