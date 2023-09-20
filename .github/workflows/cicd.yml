@@ -1,4 +1,4 @@
-name: CI
+name: Matrix Test Python
 on:
   push:
     branches: [ "main" ]
