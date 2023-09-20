@@ -23,11 +23,4 @@ jobs:
         run: make test
       - name: format
         run: make format
-      - name: Set up status badges
-        uses: badgen/badgen-action@v1
-        with:
-          subject: ${{ matrix.python-version }}
-          status: ${{ job.status }}
-          color:  ${{ job.status == 'success' && 'green' || 'red' }}
-          label: Test Status
-          icon: github
+ 
